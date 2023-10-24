@@ -101,7 +101,7 @@ function deletePolicy(){
         Enter address: <input type="text" name="address" size="50">
         
         <br>    
-        Enter your contact: <input type="text" name "contact" size="50">
+        Enter your contact: <input type="text" name="contact" size="50">
         
         <table>
         <thead>
